@@ -20,6 +20,7 @@ h1, h2 {
 
 h1 {
   font-size: 60px;
+
 }
 
 h2 {
@@ -33,4 +34,25 @@ h3 {
 
 .small {
   font-size: 16px;
+}
+
+.enfasis1 {
+  font-size: 80px;
+}
+
+.enfasis2 {
+  font-size: 60px;
+}
+
+.blacktext {
+  font-weight: 900;
+  display: block;
+}
+
+.link {
+  color: #99d930;
+}
+
+.link:hover {
+  color: #131313;
 }
