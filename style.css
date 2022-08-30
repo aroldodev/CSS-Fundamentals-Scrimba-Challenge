@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;900&display=swap');
 
 body {
-  display: flex;
   justify-content: center;
   font-family: 'Roboto', sans-serif;
   font-size: 21px;
@@ -56,3 +55,21 @@ h3 {
 .link:hover {
   color: #131313;
 }
+
+section {
+  padding: 100px 0;
+}
+
+.title {
+  background-color: #D7D7D7;
+}
+
+.main {
+  background-color: #ffeaea;
+}
+
+.info{
+  background-color: #eaf9ff;
+}
+
+.
