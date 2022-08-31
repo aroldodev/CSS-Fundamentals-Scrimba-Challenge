@@ -60,16 +60,12 @@ section {
   padding: 100px 0;
 }
 
-.title {
-  background-color: #D7D7D7;
+.title, .info{
+  background-color: #252525;
+  color: #FFF;
 }
 
 .main {
-  background-color: #ffeaea;
+  background-color: #FFF;
+  color: #252525;
 }
-
-.info{
-  background-color: #eaf9ff;
-}
-
-.
