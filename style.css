@@ -19,12 +19,15 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 80px;
 
 }
 
 h2 {
-  font-size: 42px;
+  font-size: 60px;
+  border-top: 1px solid #C4C4C4;
+  border-bottom: 1px solid #C4C4C4;
+  padding: 20px 0;
 }
 
 h3 {
@@ -49,6 +52,7 @@ h3 {
 .blacktext {
   font-weight: 900;
   display: block;
+  color: #99d930;
 }
 
 .link {
@@ -83,6 +87,6 @@ section {
 }
 
 .btn:hover {
-  color: #fff;
-  background-color: #252525;
+  color: #252525;
+  background-color: #fff;
 }
